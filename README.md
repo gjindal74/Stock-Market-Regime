@@ -52,10 +52,6 @@ Returns are compared with a passive buy-and-hold portfolio.
 
 - The model successfully segments the market into distinct behavioral regimes.
 - While the default model avoids some downturns, it may underperform buy-and-hold without tuning.
-- You can improve results by adjusting:
-  - Number of regimes
-  - Feature set
-  - Strategy rules
 ![last](https://github.com/user-attachments/assets/6d7ba8f4-c54b-4d8b-9825-11734f6e0661)
 
 ---
